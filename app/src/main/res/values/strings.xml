@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Smart Eight</string>
+    <string name="app_title">Smart Eight</string>
+    <string name="et_email">Email address</string>
+    <string name="et_password">Password</string>
+    <string name="btn_login">Sign In</string>
+    <string name="btn_register">Sign Up</string>
+    <string name="et_nama">Name</string>
+    <string name="et_status">Status</string>
+    <string name="et_confirm_password">Confirm password</string>
+    <string name="registration_user_success">Success registration account</string>
+    <string name="error_et_empty">Data must be field</string>
+    <string name="error_et_confirm_password_not_similar">Password not similar</string>
+    <string name="error_et_password_less_than_5">Password must have more than 5 character</string>
+    <string name="error_et_email_format_wrong">Format email not valid</string>
+    <string name="tab_presence">Attendance</string>
+    <string name="tab_announcement">Announcement</string>
+    <string name="tv_body_announcement">Body Announcement</string>
+    <string name="tv_date_announcement">Date</string>
+    <string name="tv_title_announcement">Title Announcement</string>
+    <string name="btn_attendance">Presence</string>
+    <string name="tv_attendance">PRESENCE</string>
+    <string name="helper_et_name">Use full name</string>
+    <string name="helper_et_status">Example: Student / Teacher / Employee</string>
+    <string name="msg_request_permission">Feature camera and internal storage needs to use this app</string>
+    <string name="btn_positive">Granted</string>
+    <string name="btn_negative">Cancel</string>
+    <string name="attendance_user_success">Thank you for presence today!</string>
+    <string name="title_dialog_permission">Request permission</string>
+    <string name="msg_dialog_permission">Application Smart Eight can not use without permission access to camera and internal storage</string>
+    <string name="logout">Logout</string>
+    <string name="data_empty">Nothing announcement</string>
+    <string name="title_notification">New Announcement!</string>
+    <string name="detail_announcement">Detail Announcement</string>
+    <string name="tv_subtitle">Information and Presence</string>
+    <string name="work_from_office">Work From Office</string>
+    <string name="work_from_home">Work From Home</string>
+
+
+    <string name="student" translatable="false">Murid</string>
+    <string name="teacher" translatable="false">Guru</string>
+    <string name="employee" translatable="false">Karyawan</string>
+    <string name="message_attendance_image">Photo must be field</string>
+
+    <string-array name="spinner_time">
+        <item>Datang</item>
+        <item>Pulang</item>
+    </string-array>
+</resources>

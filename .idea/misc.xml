@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2328125" />
+        <entry key="app/src/main/res/drawable/custom_radius_button.xml" value="0.2328125" />
+        <entry key="app/src/main/res/drawable/ic_baseline_campaign.xml" value="0.2328125" />
+        <entry key="app/src/main/res/drawable/ic_baseline_delete_forever.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_edit.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_error_outline.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_error_outline_24.xml" value="0.10555555555555556" />
+        <entry key="app/src/main/res/drawable/ic_baseline_fact_check_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_format_list_bulleted.xml" value="0.22923076923076924" />
+        <entry key="app/src/main/res/drawable/ic_baseline_notifications_active.xml" value="0.2328125" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2328125" />
+        <entry key="app/src/main/res/drawable/input_layout_end_icon.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/logo_launcher_background.xml" value="0.2101851851851852" />
+        <entry key="app/src/main/res/drawable/progress_bg.xml" value="0.1" />
+        <entry key="app/src/main/res/font/monsterrat_regular.xml" value="0.246875" />
+        <entry key="app/src/main/res/layout/activity_announcement_add_update.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_announcement_detail.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_auth.xml" value="0.14492753623188406" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.14266304347826086" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.21666666666666667" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/fragment_absensi.xml" value="0.10536980749746708" />
+        <entry key="app/src/main/res/layout/fragment_announcement.xml" value="0.17" />
+        <entry key="app/src/main/res/layout/fragment_attendance.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_register.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/list_item_announcement.xml" value="0.25" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12083333333333333" />
+        <entry key="app/src/main/res/xml/path_providers.xml" value="0.13541666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="dagger.hilt.android.HiltAndroidApp" />
+      <item index="1" class="java.lang.String" itemvalue="dagger.hilt.android.HiltAndroidApp" />
+      <item index="2" class="java.lang.String" itemvalue="dagger.hilt.android.HiltAndroidApp" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

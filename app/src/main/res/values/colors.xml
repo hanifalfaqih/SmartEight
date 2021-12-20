@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_200">#FF4EC2F7</color>
+    <color name="blue_500">#FF039AE5</color>
+    <color name="blue_700">#FF0376BD</color>
+    <color name="sky_200">#FF93D7E5</color>
+    <color name="sky_700">#FF378EA0</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="textColorGrey">#212121</color>
+</resources>
